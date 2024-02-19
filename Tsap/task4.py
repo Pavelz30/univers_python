@@ -7,3 +7,4 @@ def func1(n):
     if n >= 2:
         return func1(n-2) ** 2 + func1(n - 2) + \
             func1(n - 1) ** 3 - func1(n-1) ** 3
+g
