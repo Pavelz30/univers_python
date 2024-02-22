@@ -39,3 +39,4 @@ def func4(n, m, b):
               for k in range(1, b + 1))
     return sum(matrix)
 
+
